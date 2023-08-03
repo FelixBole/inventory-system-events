@@ -1,0 +1,17 @@
+{
+    "name": "Slax.InventorySystemEvents.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2f0e17d49660eed4aac2a682b4bc160a",
+        "GUID:17fa42a0a17438b4687f8e5163b2a270"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
