@@ -29,7 +29,8 @@
 		"LICENSE.md",
 		"LICENSE.md.meta",
 		"README.md",
-		"README.md.meta"
+		"README.md.meta",
+		"package.json.meta"
 	],
 	"dependencies": {
 		"com.slax.inventorysystem": "^0.1.5",
