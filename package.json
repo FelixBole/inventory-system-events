@@ -1,6 +1,6 @@
 {
 	"name": "com.slax.inventorysystemevents",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"displayName": "Inventory System Events",
 	"description": "An extension for Slax Inventory System using Slax Event System",
 	"unity": "2019.1",
