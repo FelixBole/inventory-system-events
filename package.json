@@ -15,6 +15,22 @@
 		"name": "Felix Bole",
 		"email": "felix.slax@gmail.com"
 	},
+	"files": [
+		"Documentation/**",
+		"Documentation.meta",
+		"Editor/**",
+		"Editor.meta",
+		"Runtime/**",
+		"Runtime.meta",
+		"Samples/**",
+		"Samples.meta",
+		"CHANGELOG.md",
+		"CHANGELOG.meta",
+		"LICENSE.md",
+		"LICENSE.meta",
+		"README.md",
+		"README.meta"
+	],
 	"dependencies": {
 		"com.slax.inventorysystem": "https://github.com/FelixBole/inventory-system.git",
 		"com.slax.eventsystem": "https://github.com/FelixBole/event-system.git"
