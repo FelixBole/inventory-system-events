@@ -25,14 +25,14 @@
 		"Samples/**",
 		"Samples.meta",
 		"CHANGELOG.md",
-		"CHANGELOG.meta",
+		"CHANGELOG.md.meta",
 		"LICENSE.md",
-		"LICENSE.meta",
+		"LICENSE.md.meta",
 		"README.md",
-		"README.meta"
+		"README.md.meta"
 	],
 	"dependencies": {
-		"com.slax.inventorysystem": "https://github.com/FelixBole/inventory-system.git",
-		"com.slax.eventsystem": "https://github.com/FelixBole/event-system.git"
+		"com.slax.inventorysystem": "^0.1.5",
+		"com.slax.eventsystem": "^1.1.1"
 	}
 }
